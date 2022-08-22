@@ -1,2 +1,2 @@
-git is a easy tool
+git is a free software
 git is a version control system
